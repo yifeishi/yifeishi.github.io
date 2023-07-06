@@ -18,15 +18,15 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 👋
 
-I am a Ph.D. Candidate (Graduate Research Assistant) at [West Virginia University](https://www.wvu.edu/) in Chemical Engineering, in the [CODES Research Group](https://fernandolima.faculty.wvu.edu/) and also hold a Master’s degree also in Chemical Engineering. 
+I am a Ph.D. Candidate (Graduate Research Assistant) at [West Virginia University](https://www.wvu.edu/) in Chemical Engineering, and a member of the [CODES Research Group](https://fernandolima.faculty.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Chemical Engineering. 
 
-I have experience in :
+Throughout my career, I have developed algorithms and methods to efficiently solve problems related
+to [Process Systems Engineering (PSE)](https://www.sciencedirect.com/science/article/pii/S0098135421000302), giving me experience in:
+
 - Process modeling
 - Advanced process control
 - Plantwide control
 - Nonlinear constrained optimization
-- Machine learning
+- Supervised machine learning.
 
-Applied to process systems engineering.
-
-My current ambition is to conduct further research on the design, modeling, control and assessment of chemical processes. I have experience working with the oil and gas industry, as well as the petrochemical.
+My current goal is to conduct further research on the design, modeling, control and assessment of chemical processes. Lastly, I have experience working with the industry, mainly the oil and gas industry, petrochemical and energy sectors.

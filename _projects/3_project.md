@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Metacontrol - A metamodel based toolbox for self-optimizing control structure selection
+description: Metacontrol is a Python based software which assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
+img: assets/img/metacontrol_frontpage.jpg
+redirect: https://meta-control.net
 importance: 3
 category: work
 ---
