@@ -2,7 +2,7 @@
 layout: page
 title: Metacontrol
 description: Metacontrol is a Python based software which assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
-img: assets/img/metacontrol.jpg
+img: assets/img/metacontrol.JPG
 redirect: https://meta-control.net
 importance: 1
 category: work
