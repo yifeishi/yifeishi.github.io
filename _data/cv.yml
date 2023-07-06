@@ -30,13 +30,14 @@
         - Metamodel-based Numerical Techniques for Self-Optimizing Control.
         - <u>Academic Coefficient:<u>  10 out of 10
         - contents: 
-        - Developed a methodology capable of using Gaussian Process Regression (GPR) to aid the selection of controlled variables (CVs) in an industrial process, following the Self-Optimizing Control (SOC) methodology.
+          - Developed a methodology capable of using Gaussian Process Regression (GPR) to aid the selection of controlled variables (CVs) in an industrial process, following the Self-Optimizing Control (SOC) methodology.
        
     - title: Exchange Student (International), Chemical Engineering
       institution: University of Birmingham, United Kingdom
       year: 2014 - 2015
-      description: Exchange Student, participating in the "Science Without Borders" brazilian scientific mobility program.
-      - <u>British Degree Classification:<u> Mainly Upper Second
+      description: 
+        - Exchange Student, participating in the "Science Without Borders" brazilian scientific mobility program.
+        - <u>British Degree Classification:<u> Mainly Upper Second
 
     - title: Bachelor of Science, Chemical Engineering 
       institution: Federal University of Campina Grande
