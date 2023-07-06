@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Chemical Engineering @ <a href='https://fernandolim
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: victor_alves.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
