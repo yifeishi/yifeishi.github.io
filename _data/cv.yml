@@ -63,7 +63,7 @@
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://meta-control.net/">al-folio</a>
+    - title: <a href="https://meta-control.net/">Metacontrol</a>
       year: 2020 - currently
       description: Metacontrol is a Python-based software which assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
     - title: Python-based process operability package
