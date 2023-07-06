@@ -42,7 +42,8 @@
     - title: Bachelor of Science, Chemical Engineering 
       institution: Federal University of Campina Grande
       year: 2012 - 2017
-      <u>Academic Coefficient:<u> 10 out of 10
+      description:
+        - <u>Academic Coefficient:<u> 10 out of 10
 
 - title: Experience
   type: time_table
