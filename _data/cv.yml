@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Victor Alves
-    - name: Date of Birth
-      value: 9th May 1994
     - name: Languages
       value: English, Portuguese
 
@@ -16,7 +14,7 @@
       year: 2020 - currently
       description:
         - Strategies for Process Systems Mapping and Control Based on Operability Analysis, under Dr. Fernando V. Lima's supervision.
-        - <u>GPA:<u> 3.8 out of 4.0
+        - <u>GPA:<u> 3.80/4.00
         - contents:
             - Development of emerging techniques for process operability calculations, involving mainly supervised machine-learning, constrained nonlinear programming (NLP) and automatic differentiation (AD) for efficient algorithms development.
             - Development of an open-source python package for process operability calculations, for ease of use and dissemination of operability algorithms in academia and industry.
@@ -28,7 +26,7 @@
       year: 2017 - 2020
       description:
         - Metamodel-based Numerical Techniques for Self-Optimizing Control.
-        - <u>Academic Coefficient:<u>  10 out of 10
+        - <u>Academic Coefficient:<u>  10.00/10.00
         - contents: 
           - Developed a methodology capable of using Gaussian Process Regression (GPR) to aid the selection of controlled variables (CVs) in an industrial process, following the Self-Optimizing Control (SOC) methodology.
        
@@ -43,7 +41,7 @@
       institution: Federal University of Campina Grande
       year: 2012 - 2017
       description:
-        - <u>Academic Coefficient:<u> 10 out of 10
+        - <u>Academic Coefficient:<u> 8.69/10.00
 
 - title: Experience
   type: time_table
