@@ -1,4 +1,4 @@
-[victor-alves.com](https://victor_alves.com)
+[victor-alves.com](https://victor-alves.com)
 
 
 [victoraalves.github.io](https://victoraalves.github.io) - Mirror.
