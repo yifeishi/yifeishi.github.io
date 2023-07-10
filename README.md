@@ -1,5 +1,5 @@
-[!](victor_alves.com)
-[!](victoraalves.github.io)
+[victor-alves.com](victor_alves.com)
+[victoraalves.github.io](victoraalves.github.io)
 
 my personal website, based on [al-folio's](https://github.com/alshedivat/al-folio) template:
 
