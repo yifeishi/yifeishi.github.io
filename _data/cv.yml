@@ -64,9 +64,9 @@
     - title: <a href="https://meta-control.net/">Metacontrol</a>
       year: 2019 - currently
       description: Metacontrol is a Python-based software which assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
-    - title: Python-based process operability package
+    - title: <a href="https://codes-group.github.io/PyPO/intro.html">PyPO</a>
       year: 2022 - currently
-      description: A Python-based package that encapsulates all process operability algorithms in a single bundle fashion, allowing for simultaneous design and control of chemical processes in a easy, open-source environment.
+      description: PyPO - A Python-based Process Operability Package - is an open-source project for advanced process operability analyses. The PyPO codebase includes the main operability algorithms, supplementary analysis and visualization methods to allow for the assessment of simultaneous design and control objectives early in the conceptual phase.
 
 - title: Honors and Awards
   type: time_table
