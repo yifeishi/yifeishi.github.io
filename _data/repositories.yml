@@ -1,6 +1,8 @@
 github_users:
   - victoraalves
+  - CODES-group
 
 github_repos:
   - victoraalves/metacontrol
   - victoraalves/pySOC
+  - CODES-group/opyrability
