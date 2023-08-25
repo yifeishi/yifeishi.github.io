@@ -16,7 +16,7 @@
         - Strategies for Process Systems Mapping and Control Based on Operability Analysis, under Dr. Fernando V. Lima's supervision.
         - <u>GPA:<u> 3.80/4.00
         - contents:
-            - Development of emerging techniques for process operability calculations, involving mainly supervised machine-learning, constrained nonlinear programming (NLP) and automatic differentiation (AD) for efficient algorithms development.
+            - Development of emerging techniques for process operability calculations, involving mainly supervised machine-learning, constrained nonlinear programming (NLP) and automatic differentiation (AD) for efficient algorithm development.
             - Development of an open-source python package for process operability calculations, for ease of use and dissemination of operability algorithms in academia and industry.
         - title: Control, Optimization and Design for Energy and Sustainability (CODES) Research Group leader.
           contents:
@@ -66,7 +66,7 @@
       description: Metacontrol is a Python-based software which assembles several methodologies into a single bundle so that a fast implementation of the Self-Optimizing Control (SOC) technique can be achieved.
     - title: <a href="https://codes-group.github.io/opyrability/intro.html">Opyrability</a>
       year: 2022 - currently
-      description: Opyrability - A Python-based packge for process operability analysis - is an open-source project for advanced process operability analyses. The opyrability codebase includes the main operability algorithms, supplementary analysis and visualization methods to allow for the assessment of simultaneous design and control objectives early in the conceptual phase.
+      description: Opyrability - A Python-based package for process operability analysis - is an open-source project for advanced process operability analyses. The opyrability codebase includes the main operability algorithms, supplementary analysis and visualization methods to allow for the assessment of simultaneous design and control objectives early in the conceptual phase.
 
 - title: Honors and Awards
   type: time_table
