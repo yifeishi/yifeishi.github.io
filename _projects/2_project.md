@@ -3,7 +3,7 @@ layout: page
 title: Opyrability
 description: Opyrability - A Python-based packge for process operability analysis - is an open-source project for advanced process operability analyses. The opyrability codebase includes the main operability algorithms, supplementary analysis and visualization methods to allow for the assessment of simultaneous design and control objectives early in the conceptual phase.
 img: assets/img/opyrability.jpg
-redirect: https://codes-group.github.io/PyPO
+redirect: https://codes-group.github.io/opyrability
 importance: 1
 category: work
 ---
