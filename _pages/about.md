@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 👋
 
-I am a Ph.D. Candidate (Graduate Research Assistant) in Chemical Engineering at [West Virginia University](https://www.wvu.edu/), and a member of the [CODES Research Group](https://fernandolima.faculty.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Chemical Engineering. 
+test I am a Ph.D. Candidate (Graduate Research Assistant) in Chemical Engineering at [West Virginia University](https://www.wvu.edu/), and a member of the [CODES Research Group](https://fernandolima.faculty.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Chemical Engineering. 
 
 Throughout my career, I have developed algorithms and methods to efficiently solve problems related
 to [Process Systems Engineering (PSE)](https://www.sciencedirect.com/science/article/pii/S0098135421000302), giving me experience in:
