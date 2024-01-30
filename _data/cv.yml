@@ -9,9 +9,9 @@
 - title: Education
   type: time_table
   contents:
-    - title:    PhD Candidate (ABD status), Chemical Engineering
+    - title: PhD Candidate (ABD status), Chemical Engineering
       institution: West Virginia University, USA
-      year: Aug. 2020 - currently
+      year: 08/2020 - currently
       description:
         - Strategies for Process Systems Mapping and Control Based on Operability Analysis, under Dr. Fernando V. Lima's supervision.
         - <u>GPA:<u> 3.80/4.00
@@ -23,7 +23,7 @@
             - CODES Research Group leader, supervising group activities, as well as organizing the group's semester schedule, workshops, weekly meetings and relevant announcements.
     - title: Master's Degree (M.Sc.), Chemical Engineering
       institution: Federal University of Campina Grande, Brazil
-      year: Sept. 2017 -  March 2020
+      year: 09/2017 -  03/2020
       description:
         - Metamodel-based Numerical Techniques for Self-Optimizing Control.
         - <u>Academic Coefficient:<u>  10.00/10.00
@@ -32,7 +32,7 @@
        
     - title: Exchange Student (International), Chemical Engineering
       institution: University of Birmingham, United Kingdom
-      year: Sept. 2014 - Aug. 2015
+      year: 09/2014 - 08/2015
       description: 
         - Exchange Student, participating in the "Science Without Borders" Brazilian scientific mobility program.
         - <u>British Degree Classification:<u> Upper Second
@@ -48,12 +48,12 @@
   contents:
     - title: Researcher and Developer
       institution: Federal University of Campina Grande
-      year: Sept. 2018 - March 2020
+      year: 09/2018 - 03/2020
       description:
         - Research and development of a software called BRPWC for Petrobras, an automated software capable of easily selecting the most promising self-optimizing control structures in large-scale, industrial processes.
     - title: Process Engineering Intern
       institution: SigmaCT as a contractor to Braskem
-      year: March 2017 - Sept. 2017
+      year: 03/2017 - 09/2017
       description:
         - Experience in Vinyl Chloride Monomer (VCM) and Polyvinyl Chloride (PVC) production plants.
 
