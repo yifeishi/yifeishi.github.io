@@ -9,9 +9,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate (ABD status), Chemical Engineering
+    - title: PhD Chemical Engineering
       institution: West Virginia University, USA
-      year: 08/2020 - currently
+      year: 08/2020 - 05/2024
       description:
         - Strategies for Process Systems Mapping and Control Based on Operability Analysis, under Dr. Fernando V. Lima's supervision.
         - <u>GPA:<u> 3.80/4.00
@@ -46,6 +46,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Postdoctoral Fellow
+      institution: Carnegie Mellon University
+      year: 05/2024 - Currently
+      description:
+        - Postdoctoral Fellow in Carl Laird's and John Kitchin's research groups.
     - title: Researcher and Developer
       institution: Federal University of Campina Grande
       year: 10/2017 - 03/2020
