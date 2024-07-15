@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate in Chemical Engineering @ <a href='https://fernandolima.faculty.wvu.edu/'>CODES Research Group</a>.
+subtitle: Postdoctoral Fellow in Chemical Engineering @ <a href='https://www.cmu.edu'>Carnegie Mellon University</a>.
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! 👋
 
-I am a Ph.D. Candidate (Graduate Research Assistant) in Chemical Engineering at [West Virginia University](https://www.wvu.edu/), and a member of the [CODES Research Group](https://fernandolima.faculty.wvu.edu/). In addition, I hold both a M.Sc. and B.Sc. degrees also in Chemical Engineering. 
+I am a postdoctoral fellow at [Carnegie Mellon University](https://www.cmu.edu), holding a Ph.D. in Chemical Engineering at [West Virginia University](https://www.wvu.edu/). In addition, I also have an M.Sc. and B.Sc. degrees in Chemical Engineering, both at the Federal [University of Campina Grande, Brazil](https://portal.ufcg.edu.br). 
 
 Throughout my career, I have developed algorithms and methods to efficiently solve problems related
 to [Process Systems Engineering (PSE)](https://www.sciencedirect.com/science/article/pii/S0098135421000302), giving me experience in:
