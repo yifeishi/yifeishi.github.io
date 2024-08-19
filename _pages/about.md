@@ -6,7 +6,7 @@ subtitle: Postdoctoral Fellow in Chemical Engineering @ <a href='https://www.cmu
 
 profile:
   align: right
-  image: victor_alves.jpg
+  image: yifei_shi.jpg
   image_circular: false # crops the image to make it circular
   address: >
 
