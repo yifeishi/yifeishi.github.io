@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Fellow in Chemical Engineering @ <a href='https://www.cmu.edu'>Carnegie Mellon University</a>.
+subtitle: Associate Professor in Computer Science @ National University of Defense Technology.
 
 profile:
   align: right
@@ -16,17 +16,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi there! 👋
+Yifei Shi (施逸飞) is an Associate Professor at the College of Intelligent Science, National University of Defense Technology (NUDT). He obtained his Ph.D. in computer science in 2019 from NUDT, supervised by Yueshan Xiong and Kai Xu. From 2017 to 2018, he was a visiting Ph.D. Student in the Vision and Robotics Group of Princeton University supervised by Thomas Funkhouser and Szymon Rusinkiewicz. His research interests include 3D vision, computer graphics, and robot perception and interaction.
 
-I am a postdoctoral fellow at [Carnegie Mellon University](https://www.cmu.edu), holding a Ph.D. in Chemical Engineering at [West Virginia University](https://www.wvu.edu/). In addition, I also have an M.Sc. and B.Sc. degrees in Chemical Engineering, both at the [Federal University of Campina Grande, Brazil](https://portal.ufcg.edu.br). 
-
-Throughout my career, I have developed algorithms and methods to efficiently solve problems related
-to [Process Systems Engineering (PSE)](https://www.sciencedirect.com/science/article/pii/S0098135421000302), giving me experience in:
-
-- Process modeling
-- Advanced process control
-- Plantwide control
-- Nonlinear constrained optimization
-- Supervised machine learning.
-
-My current goal is to conduct further research on the design, modeling, control and assessment of chemical processes. Lastly, I have experience working with the industry, mainly the oil and gas, petrochemical and energy sectors.
