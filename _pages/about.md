@@ -5,7 +5,7 @@ permalink: /
 subtitle: Associate Professor
 
 profile:
-  align: left
+  align: top
   image: yifei_shi.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -13,7 +13,7 @@ profile:
 news: fale  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: fale # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Email: yifei.j.shi@gmail.com or shiyifei12@nudt.edu.cn
