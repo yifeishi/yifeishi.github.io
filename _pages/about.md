@@ -10,15 +10,15 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
 
-news: fale  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: fale # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Email: yifei.j.shi@gmail.com or shiyifei12@nudt.edu.cn
-
 National University of Defense Technology
+
+Email: yifei.j.shi@gmail.com or shiyifei12@nudt.edu.cn
 
 Yifei Shi (施逸飞) is an Associate Professor at the College of Intelligent Science, National University of Defense Technology (NUDT). He obtained his Ph.D. in computer science in 2019 from NUDT, supervised by Yueshan Xiong and Kai Xu. From 2017 to 2018, he was a visiting Ph.D. Student in the Vision and Robotics Group of Princeton University supervised by Thomas Funkhouser and Szymon Rusinkiewicz. 
 
