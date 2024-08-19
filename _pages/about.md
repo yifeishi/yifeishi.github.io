@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor in Computer Science @ National University of Defense Technology.
+subtitle: Associate Professor
 
 profile:
   align: right
