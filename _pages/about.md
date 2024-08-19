@@ -5,7 +5,7 @@ permalink: /
 subtitle: Associate Professor
 
 profile:
-  align: right
+  align: left
   image: yifei_shi.jpg
   image_circular: false # crops the image to make it circular
   address: >
