@@ -30,9 +30,9 @@ Research interests:
 Representative Fundings and awards:
 - 2024 国防科技大学基石基金
 - 2024 国防科技大学青年创新奖一等奖
+- 2023 中国科协青年人才托举工程
+- 2023 ACM China Changsha Chapter Rising Star Award 
 - 2023 湖南省荷尖人才/湖湘青年英才
 - 2023 湖南省优青
-- 2023 ACM China Changsha Chapter Rising Star Award 
-- 2023 中国科协青年人才托举工程
 - 2022 中国图学学会青年人才托举计划
 - 2022 国防科技大学高层次创新人才
