@@ -27,7 +27,7 @@ Research interests:
 - Computer graphics
 - Robot perception and interaction
 
-Representative Fundings and awards:
+Representative fundings and awards:
 - 2024 国防科技大学基石基金
 - 2024 国防科技大学青年创新奖一等奖
 - 2023 中国科协青年人才托举工程
