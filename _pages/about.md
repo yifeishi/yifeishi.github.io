@@ -20,9 +20,6 @@ National University of Defense Technology
 
 My research focuses on developing intelligent machines that can perceive, reason, and interact with the physical world through the integration of 3D vision, embodied AI, and physics-informed learning.
 
-Our goal is to build AI systems that not only recognize the world, but also understand its geometry, physics, and dynamics to enable generalizable robotic intelligence and scientific discovery.
-
-
 ## Research Vision
 
 How can machines acquire human-like understanding of the physical world? We investigate this question from three complementary perspectives:
