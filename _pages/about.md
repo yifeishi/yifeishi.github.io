@@ -18,6 +18,8 @@ social: false  # includes social icons at the bottom of the page
 
 National University of Defense Technology
 
+Email: **yifei.j.shi@gmail.com** or **shiyifei12@nudt.edu.cn**
+
 My research focuses on developing intelligent machines that can perceive, reason, and interact with the physical world through the integration of 3D vision, embodied AI, and physics-informed learning.
 
 ## Research Vision
