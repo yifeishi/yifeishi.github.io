@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor
+subtitle: Professor | Ph.D. Supervisor
 
 profile:
   align: top
@@ -18,12 +18,31 @@ social: false  # includes social icons at the bottom of the page
 
 National University of Defense Technology
 
-Yifei Shi (施逸飞) obtained his Ph.D. in computer science in 2019 from NUDT, supervised by Yueshan Xiong and Kai Xu. From 2017 to 2018, he was a visiting Ph.D. Student in the Vision and Robotics Group of Princeton University supervised by Thomas Funkhouser and Szymon Rusinkiewicz. 
+I am a Professor and Ph.D. supervisor at the College of Intelligent Science, 
+National University of Defense Technology.
 
-Research interests:
-- 3D vision
-- Computer graphics
-- Robot perception and interaction
+My research focuses on developing intelligent machines that can perceive, reason, and interact with the physical world through the integration of 3D vision, embodied AI, and physics-informed learning.
+
+Our goal is to build AI systems that not only recognize the world, but also understand its geometry, physics, and dynamics to enable generalizable robotic intelligence and scientific discovery.
+
+
+## Research Vision
+
+How can machines acquire human-like understanding of the physical world?
+
+We investigate this question from three complementary perspectives:
+
+1. **Geometric Intelligence**
+   
+   Understanding the structure and symmetry of the 3D world.
+
+2. **Embodied Intelligence**
+   
+   Enabling robots to learn, adapt, and interact with complex environments.
+
+3. **Physics-informed AI**
+   
+   Integrating physical laws with foundation models for scientific discovery.
 
 Representative fundings and awards:
 - 2024 国防科技大学基石基金
