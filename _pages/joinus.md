@@ -1,20 +1,10 @@
 ---
 layout: page
-title: Join Us
+title: Join Our Research Group
 permalink: /joinus/
-description: Research opportunities for students and collaborators
+description: We welcome students and collaborators with diverse backgrounds, including computer science, robotics, mathematics, physics, and engineering.
 nav: true
 nav_order: 4
----
-
-# Join Our Research Group
-
-We are looking for highly motivated students and researchers who are passionate about developing intelligent machines that can understand, reason about, and interact with the physical world.
-
-Our research lies at the intersection of **Embodied AI, Robot Learning, 3D Vision, World Models, and AI for Science**. We aim to build next-generation intelligent systems by integrating geometric understanding, physical knowledge, and learning-based methods.
-
-We welcome students and collaborators with diverse backgrounds, including computer science, robotics, mathematics, physics, and engineering.
-
 ---
 
 ## How to Apply
