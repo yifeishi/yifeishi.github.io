@@ -16,7 +16,7 @@ Please send an email with:
 3. Your research interests;
 4. Relevant publications or projects (if available).
 
-Email: **shiyifei12@nudt.edu.cn**
+Email: **yifei.j.shi@gmail.com** or **shiyifei12@nudt.edu.cn**
 
 We are always looking for talented and motivated individuals to join our research journey.
 
