@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Our Research Group
+title: join us
 permalink: /joinus/
 description: We welcome students and collaborators with diverse backgrounds, including computer science, robotics, mathematics, physics, and engineering.
 nav: true
